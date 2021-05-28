@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @190man
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I hope I can find a very good teacher
 
 <!---
